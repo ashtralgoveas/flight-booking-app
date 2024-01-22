@@ -82,8 +82,7 @@ JestSetGo - Flight Booking App
 
 ## Main Home Page
 
-![screencapture-localhost-3000-2024-01-22-18_29_16](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/371f6759-823a-49fa-87bb-233e04a0b94c)
-
+![screencapture-flight-booking-app-six-vercel-app-2024-01-22-18_32_47](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/9da24431-2227-41e9-a24e-d41ebef4bbe8)
 
 ## One-way or Two-way booking
 
