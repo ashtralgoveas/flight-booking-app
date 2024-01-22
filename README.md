@@ -82,7 +82,5 @@ JestSetGo - Flight Booking App
 
 ## Main Home Page
 ![screencapture-flight-booking-app-six-vercel-app-2024-01-22-16_57_20](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/9567fefc-8c76-4636-abac-647d553a1d91)
-
-## Available Flights Page
 ![screencapture-flight-booking-app-six-vercel-app-available-flights-2024-01-22-16_59_40](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/c0e029cd-2933-4fe4-b362-fa9205a21b19)
 
