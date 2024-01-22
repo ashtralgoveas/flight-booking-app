@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# About Project 
+### JetSetGo - A simplifying Flight Booking App.
+
+● User-friendly Travel Request screen for seamless booking.
+
+● Dynamic flight retrieval with filters and sorting options - (Users should be able to filter the results by airlines. Users should be able to sort the results by price)
+
+# Screenshots
+JestSetGo - Flight Booking App
+
+## Main Home Page
+
+![screencapture-flight-booking-app-six-vercel-app-2024-01-22-16_57_20](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/9567fefc-8c76-4636-abac-647d553a1d91)
+
+## One-way or Two-way booking
+
+![Screenshot 2024-01-22 170814](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/bd4be2ed-d21c-45c3-8af4-4cfa3e494b2c)
+![Screenshot 2024-01-22 171043](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/d94c4b99-346e-4cef-b8ab-578dd1735413)
+
+### Click on All Flights to visit below page
+![Screenshot 2024-01-22 171839](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/bc51d785-7dfe-4300-b76e-2dab73a6c51c)
+
+## Available Flights Page
+![screencapture-flight-booking-app-six-vercel-app-available-flights-2024-01-22-16_59_40](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/c0e029cd-2933-4fe4-b362-fa9205a21b19)
+
+## Table Filters and Sort
+![Screenshot 2024-01-22 171241](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/6c34dd6d-105f-4957-a227-ed2598efa632)
+![Screenshot 2024-01-22 171251](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/3ce443d6-aa26-400b-8cbe-f6aa4c09f26b)
+
+
+
