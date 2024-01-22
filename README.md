@@ -78,3 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ● Dynamic flight retrieval with filters and sorting options - (Users should be able to filter the results by airlines. Users should be able to sort the results by price)
 
 # Screenshots
+JestSetGo - Flight Booking App
+![screencapture-flight-booking-app-six-vercel-app-2024-01-22-16_57_20](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/9567fefc-8c76-4636-abac-647d553a1d91)
