@@ -70,8 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-## About Project 
-### JetSetGo - A simplifying Flight Bookings App.
+# About Project 
+### JetSetGo - A simplifying Flight Booking App.
 
 ● User-friendly Travel Request screen for seamless booking.
 
