@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## About Project 
+### JetSetGo - A simplifying Flight Bookings App.
+
+● User-friendly Travel Request screen for seamless booking.
+
+● Dynamic flight retrieval with filters and sorting options - (Users should be able to filter the results by airlines. Users should be able to sort the results by price)
+
+# Screenshots
