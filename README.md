@@ -82,7 +82,8 @@ JestSetGo - Flight Booking App
 
 ## Main Home Page
 
-![screencapture-flight-booking-app-six-vercel-app-2024-01-22-16_57_20](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/9567fefc-8c76-4636-abac-647d553a1d91)
+![screencapture-localhost-3000-2024-01-22-18_29_16](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/371f6759-823a-49fa-87bb-233e04a0b94c)
+
 
 ## One-way or Two-way booking
 
@@ -90,10 +91,10 @@ JestSetGo - Flight Booking App
 ![Screenshot 2024-01-22 171043](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/d94c4b99-346e-4cef-b8ab-578dd1735413)
 
 ### Click on All Flights to visit below page
-![Screenshot 2024-01-22 171839](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/bc51d785-7dfe-4300-b76e-2dab73a6c51c)
+![Screenshot 2024-01-22 183018](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/8d65327e-8e67-4242-bfff-6b6524556dab)
 
 ## Available Flights Page
-![screencapture-flight-booking-app-six-vercel-app-available-flights-2024-01-22-16_59_40](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/c0e029cd-2933-4fe4-b362-fa9205a21b19)
+![screencapture-flight-booking-app-six-vercel-app-available-flights-2024-01-22-18_31_54](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/b999b3a2-9de4-4d1a-8137-7ab67e356cf2)
 
 ## Table Filters and Sort
 ![Screenshot 2024-01-22 171241](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/6c34dd6d-105f-4957-a227-ed2598efa632)
