@@ -2,7 +2,7 @@ import imageGrid from "../../assets/imageGrid.png";
 
 const Lounge = () => {
   return (
-    <div className="lounge container flex" data-testid="lounge">
+    <div className="lounge container flex" id="lounge" data-testid="lounge">
       <div className="sectionContainer grid">
         <div className="imgDiv">
           <img src={imageGrid} alt="" />

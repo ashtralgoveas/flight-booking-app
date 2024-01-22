@@ -52,7 +52,11 @@ const travel = [
 
 const Travel = () => {
   return (
-    <div className="travelers container section" data-testid="travel">
+    <div
+      className="travelers container section"
+      id="travel"
+      data-testid="travel"
+    >
       <div className="sectionContainer">
         <h2>Top Places to Visit!</h2>
 
