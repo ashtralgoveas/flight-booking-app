@@ -89,7 +89,7 @@ JestSetGo - Flight Booking App
 ![Screenshot 2024-01-22 170814](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/bd4be2ed-d21c-45c3-8af4-4cfa3e494b2c)
 ![Screenshot 2024-01-22 171043](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/d94c4b99-346e-4cef-b8ab-578dd1735413)
 
-### Click on All Flights to visit below page
+### Click on Available Flights to visit below page
 ![Screenshot 2024-01-22 183018](https://github.com/ashtralgoveas/flight-booking-app/assets/62205466/8d65327e-8e67-4242-bfff-6b6524556dab)
 
 ## Available Flights Page
